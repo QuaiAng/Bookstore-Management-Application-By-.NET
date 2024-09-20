@@ -1,0 +1,14 @@
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\bin\Debug\CuaHangSachHuynhTanPhatDAO.dll.config
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\bin\Debug\CuaHangSachHuynhTanPhatDAO.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\bin\Debug\CuaHangSachHuynhTanPhatDAO.pdb
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\bin\Debug\CuaHangSachHuynhTanPhatDTO.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\bin\Debug\EntityFramework.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\bin\Debug\CuaHangSachHuynhTanPhatDTO.pdb
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\bin\Debug\EntityFramework.xml
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\obj\Debug\CuaHangSachHuynhTanPhatDAO.csproj.AssemblyReference.cache
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\obj\Debug\CuaHangSachHuynhTanPhatDAO.csproj.CoreCompileInputs.cache
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\obj\Debug\CuaHangSachHuynhTanPhatDAO.csproj.CopyComplete
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\obj\Debug\CuaHangSachHuynhTanPhatDAO.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDAO\obj\Debug\CuaHangSachHuynhTanPhatDAO.pdb

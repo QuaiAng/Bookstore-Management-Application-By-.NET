@@ -1,0 +1,14 @@
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\bin\Debug\CuaHangSachHuynhTanPhatBUS.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\bin\Debug\CuaHangSachHuynhTanPhatBUS.pdb
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\bin\Debug\CuaHangSachHuynhTanPhatDAO.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\bin\Debug\CuaHangSachHuynhTanPhatDTO.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\bin\Debug\EntityFramework.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\bin\Debug\CuaHangSachHuynhTanPhatDAO.pdb
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\bin\Debug\CuaHangSachHuynhTanPhatDAO.dll.config
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\bin\Debug\CuaHangSachHuynhTanPhatDTO.pdb
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\bin\Debug\EntityFramework.xml
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\obj\Debug\CuaHangSachHuynhTanPhatBUS.csproj.AssemblyReference.cache
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\obj\Debug\CuaHangSachHuynhTanPhatBUS.csproj.CoreCompileInputs.cache
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\obj\Debug\CuaHangSachHuynhTanPhatBUS.csproj.CopyComplete
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\obj\Debug\CuaHangSachHuynhTanPhatBUS.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatBUS\obj\Debug\CuaHangSachHuynhTanPhatBUS.pdb

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HoaDon" targetNamespace="http://tempuri.org/HoaDon.xsd" xmlns:mstns="http://tempuri.org/HoaDon.xsd" xmlns="http://tempuri.org/HoaDon.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="QLiCuaHangSachConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="QLiCuaHangSachConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CuaHangSachHuynhTanPhat.Properties.Settings.GlobalReference.Default.QLiCuaHangSachConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="HoaDonTableAdapter" GeneratorDataComponentClassName="HoaDonTableAdapter" Name="HoaDon" UserDataComponentName="HoaDonTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="QLiCuaHangSachConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        CTHD_MH.soLuongBan, HOADON.ngayLap, HOADON.tongTien, MATHANG.tenMH, MATHANG.giaBan
+FROM            CTHD_MH INNER JOIN
+                         HOADON ON CTHD_MH.maHD = HOADON.maHD INNER JOIN
+                         MATHANG ON CTHD_MH.maMH = MATHANG.maMH</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="soLuongBan" DataSetColumn="soLuongBan" />
+              <Mapping SourceColumn="ngayLap" DataSetColumn="ngayLap" />
+              <Mapping SourceColumn="tongTien" DataSetColumn="tongTien" />
+              <Mapping SourceColumn="tenMH" DataSetColumn="tenMH" />
+              <Mapping SourceColumn="giaBan" DataSetColumn="giaBan" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HoaDon" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="HoaDon" msprop:Generator_DataSetName="HoaDon">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="HoaDon" msprop:Generator_RowEvHandlerName="HoaDonRowChangeEventHandler" msprop:Generator_RowDeletedName="HoaDonRowDeleted" msprop:Generator_RowDeletingName="HoaDonRowDeleting" msprop:Generator_RowEvArgName="HoaDonRowChangeEvent" msprop:Generator_TablePropName="_HoaDon" msprop:Generator_RowChangedName="HoaDonRowChanged" msprop:Generator_RowChangingName="HoaDonRowChanging" msprop:Generator_TableClassName="HoaDonDataTable" msprop:Generator_RowClassName="HoaDonRow" msprop:Generator_TableVarName="tableHoaDon" msprop:Generator_UserTableName="HoaDon">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="soLuongBan" msprop:Generator_ColumnPropNameInRow="soLuongBan" msprop:Generator_ColumnPropNameInTable="soLuongBanColumn" msprop:Generator_ColumnVarNameInTable="columnsoLuongBan" msprop:Generator_UserColumnName="soLuongBan" type="xs:int" />
+              <xs:element name="ngayLap" msprop:Generator_ColumnPropNameInRow="ngayLap" msprop:Generator_ColumnPropNameInTable="ngayLapColumn" msprop:Generator_ColumnVarNameInTable="columnngayLap" msprop:Generator_UserColumnName="ngayLap" type="xs:dateTime" />
+              <xs:element name="tongTien" msprop:Generator_ColumnPropNameInRow="tongTien" msprop:Generator_ColumnPropNameInTable="tongTienColumn" msprop:Generator_ColumnVarNameInTable="columntongTien" msprop:Generator_UserColumnName="tongTien" type="xs:double" />
+              <xs:element name="tenMH" msprop:Generator_ColumnPropNameInRow="tenMH" msprop:Generator_ColumnPropNameInTable="tenMHColumn" msprop:Generator_ColumnVarNameInTable="columntenMH" msprop:Generator_UserColumnName="tenMH">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="giaBan" msprop:Generator_ColumnPropNameInRow="giaBan" msprop:Generator_ColumnPropNameInTable="giaBanColumn" msprop:Generator_ColumnVarNameInTable="columngiaBan" msprop:Generator_UserColumnName="giaBan" type="xs:double" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,11 @@
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\bin\Debug\CuaHangSachHuynhTanPhatDTO.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\bin\Debug\CuaHangSachHuynhTanPhatDTO.pdb
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\bin\Debug\EntityFramework.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\bin\Debug\EntityFramework.xml
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\obj\Debug\CuaHangSachHuynhTanPhatDTO.csproj.AssemblyReference.cache
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\obj\Debug\CuaHangSachHuynhTanPhatDTO.csproj.CoreCompileInputs.cache
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\obj\Debug\CuaHangSachHuynhTanPhatDTO.csproj.CopyComplete
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\obj\Debug\CuaHangSachHuynhTanPhatDTO.dll
+C:\Users\Bang\OneDrive\Máy tính\Đồ Án LT WIndows\CuaHangSachHuynhTanPhat\CuaHangSachHuynhTanPhatDTO\obj\Debug\CuaHangSachHuynhTanPhatDTO.pdb

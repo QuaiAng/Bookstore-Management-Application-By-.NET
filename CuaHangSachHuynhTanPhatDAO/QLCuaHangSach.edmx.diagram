@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="54d7828dc6694f658f983ff04bfb5261" Name="Diagram1">
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.HOADON" Width="1.5" PointX="3" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.KHACHHANG" Width="1.5" PointX="0.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.LOAIHANG" Width="1.5" PointX="3.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.LUONG" Width="1.5" PointX="3" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.MATHANG" Width="1.5" PointX="6" PointY="14.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.NHACUNGCAP" Width="1.5" PointX="3.75" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.PHIEUDATHANG" Width="1.5" PointX="6" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.PHIEUNHAPHANG" Width="1.5" PointX="6" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.TAIKHOAN" Width="1.5" PointX="3" PointY="20.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.CTDH" Width="1.5" PointX="8.25" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.CTNH" Width="1.5" PointX="8.25" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLiCuaHangSachModel.CTHD_MH" Width="1.5" PointX="8.25" PointY="7.625" IsExpanded="true" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__CTHD_MH__maHD__4E88ABD4" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__HOADON__maKH__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__HOADON__maNV__52593CB8" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__MATHANG__maLoai__5535A963" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__LUONG__maNV__534D60F1" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK_LUONG_NHANVIEN" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__CTDH__maMH__4BAC3F29" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__CTNH__maMH__4F7CD00D" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__CTHD_MH__maMH__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__PHIEUDATH__maNCC__5629CD9C" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__PHIEUNHAP__maNCC__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__PHIEUDATHA__maNV__571DF1D5" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__PHIEUNHAPH__maNV__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__TAIKHOAN__maNV__59FA5E80" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__CTDH__maPhieuDat__4CA06362" ManuallyRouted="false" />
+        <AssociationConnector Association="QLiCuaHangSachModel.FK__CTNH__maPhieuNha__5070F446" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
